@@ -1,0 +1,6 @@
+numpy
+pymeshlab
+matplotlib
+scipy
+open3d
+plyfile
